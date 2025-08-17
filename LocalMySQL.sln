@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalMySQL", "LocalMySQL\LocalMySQL.csproj", "{01E9FDCF-5EA4-45F7-9545-552B6E5C17CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalMySQL.Core", "LocalMySQL.Core\LocalMySQL.Core.csproj", "{1C80135A-895A-4E27-B9D9-7B6FD64EA64D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01E9FDCF-5EA4-45F7-9545-552B6E5C17CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E9FDCF-5EA4-45F7-9545-552B6E5C17CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E9FDCF-5EA4-45F7-9545-552B6E5C17CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E9FDCF-5EA4-45F7-9545-552B6E5C17CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C80135A-895A-4E27-B9D9-7B6FD64EA64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C80135A-895A-4E27-B9D9-7B6FD64EA64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C80135A-895A-4E27-B9D9-7B6FD64EA64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C80135A-895A-4E27-B9D9-7B6FD64EA64D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {544261F9-474B-4FE7-B7B4-205E894F876C}
+	EndGlobalSection
+EndGlobal
